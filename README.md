@@ -10,6 +10,6 @@ queue, and the proportion of time the server is busy.
 
 
 # How to run
-Open cmd in the Queue.java path
-Compile using ```javac Queue.java```
-Run ```java Queue```
+- Open cmd in the Queue.java path
+- Compile ```javac Queue.java```
+- Run ```java Queue```
