@@ -1,6 +1,6 @@
-## simulation
+# simulation
 
-# Question
+## Question
 Write a C or Java program to implement the single queue single server discrete event
 simulation model with 1000 runs. Assume the inter arrival and service times are
 distributed as exponential random variables with mean 1 minute for the inter arrival
@@ -9,7 +9,7 @@ performance namely; the average delay in queue, the average number of customers 
 queue, and the proportion of time the server is busy.
 
 
-# How to run
+## How to run
 - Open cmd in the Queue.java path
 - Compile ```javac Queue.java```
 - Run ```java Queue```
